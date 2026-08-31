@@ -3,7 +3,9 @@
 
 This project analyzes Vrinda store sales data to identify sales trends,
 customer purchasing behaviour, sales performance, and business
-opportunities. The objective is to transform raw sales data into actionable insights that can support business and sales decisions
+opportunities. 
+
+The objective is to transform raw sales data into actionable insights that can support business and sales decisions
 
 ## Data Source
 
