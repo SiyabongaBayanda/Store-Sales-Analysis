@@ -79,19 +79,13 @@ The Power BI dashboard contains:
 
 ### Visualizations
 
-- Monthly Sales Trend
-- Sales by Category
-- Sales by Gender
-- Sales by State
-- Sales by Sales Channel
-- Top 10 Products
-- Order Status
-
-### Filters
-
-- Month
-- Channel
-- Category
+- Monthly Sales Trend (Column Chart)
+- Sales by Category (Bar Chart)
+- Sales by Gender (Pie Chart)
+- Sales by State (Bar Chart)
+- Sales by Sales Channel (Pie Chart)
+- Orders by Age & Gender (Column Chart)
+- Order Status (Donut Chart)
 
 ![HR Analytics Dashboard](Sales_Report_Dashboard.png)
 
