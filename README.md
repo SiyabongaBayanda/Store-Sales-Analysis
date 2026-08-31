@@ -11,6 +11,16 @@ opportunities. The objective is to transform raw sales data into actionable insi
 **Dataset:** Vrinda Store Sales 
 **Link:** [Download here](https://www.kaggle.com/datasets/amitkumar209/vrinda-store-sales-data)
 
+## Business Questions
+
+1. What are the total sales and orders?
+2. Which category generates the most sales?
+3. Which gender contributes the most sales?
+4. Which age group generates the most sales?
+5. Which month has the highest sales?
+6. Which channels generate the most orders?
+7. Show different orders status?
+8. Which states generate the most sales?
 ## Tools Used
 
 - SQL Server – Data storage, cleaning, and analysis
@@ -32,17 +42,6 @@ SQL Data Analysis
 Power BI Dashboard
     →
 Business Insights
-
-## Business Questions
-
-1. What are the total sales and orders?
-2. Which category generates the most sales?
-3. Which gender contributes the most sales?
-4. Which age group generates the most sales?
-5. Which month has the highest sales?
-6. Which channels generate the most orders?
-7. Show different orders status?
-8. Which states generate the most sales?
 
 ## Data Cleaning - SQL Queries
 
