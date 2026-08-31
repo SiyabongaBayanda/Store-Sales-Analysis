@@ -24,8 +24,8 @@ opportunities. The objective is to transform raw sales data into actionable insi
    
 ## Tools Used
 
-- SQL Server – Data storage, cleaning, and analysis
-- SQL – Data transformation and business analysis
+- SQL Server – Data storage, cleaning, and removing duplicates analysis
+- SQL – Data transformation & formatting dates and business analysis
 - Power BI – Data visualization and interactive dashboard
 - Excel/CSV – Source dataset
 
@@ -43,26 +43,6 @@ SQL Data Analysis
 Power BI Dashboard
     →
 Business Insights
-
-## Data Cleaning - SQL Queries
-
-- Removing duplicates
-- Checking missing values
-- Standardizing & Formatting dates
-- Checking incorrect values
-
-## SQL Analysis
-
-SQL was used to perform:
-
-- Data cleaning 
-- Total sales and orders analysis
-- Sales by gender analysis
-- Show different order status
-- Sales channel analysis
-- Sales by state analysis
-- Sales by category analysis
-- Sales by age group analysis
 
 [View SQL Queries](SQL_Store_Sales_Analysis.sql)
 
