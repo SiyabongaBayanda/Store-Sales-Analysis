@@ -1,7 +1,7 @@
 #  Store Sales Analysis
 ##  Project Overview
 
-This project analyzes store sales data to identify sales trends,
+This project analyzes Vrinda store sales data to identify sales trends,
 customer purchasing behaviour, sales performance, and business
 opportunities. The objective is to transform raw sales data into actionable insights that can support business and sales decisions
 
@@ -72,7 +72,7 @@ The Power BI dashboard contains:
 
 ## Key Insights
 
-- Women contributed 64% of total sales, making female customers the largest revenue-generating customer segment.
+- Women contributed 64% of total revenue, making female customers the largest revenue-generating customer segment.
 - Customers aged 30–49 generated the largest share of sales, highlighting the Adult age group as a key target market.
 - Set, Kurta, and Western Dress were the top-performing categories, collectively contributing 88% of total sales, making them the primary drivers of product revenue.
 - Q1 recorded the highest quarterly sales, indicating strong sales performance during the first quarter.
@@ -81,7 +81,7 @@ The Power BI dashboard contains:
 
 ## Recommendations
 
-- Target women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh with personalized marketing campaigns, product recommendations, and offers tailored to their purchasing preferences.
+- Target women aged 30–49 with personalized marketing campaigns, product recommendations, and offers tailored to their purchasing preferences.
 - Strengthen the Amazon, Myntra, and Flipkart sales channels by using targeted advertising, exclusive offers, and promotional coupons to increase customer engagement and sales.
 - Increase inventory and staffing ahead of peak sales periods to ensure sufficient stock and operational capacity to meet higher customer demand and maximize sales opportunities.
 - Investigate low-performing states to identify barriers to sales growth and develop targeted strategies such as regional promotions, localized marketing, and improved product availability.
