@@ -21,6 +21,7 @@ opportunities. The objective is to transform raw sales data into actionable insi
 6. Which channels generate the most orders?
 7. Show different orders status?
 8. Which states generate the most sales?
+   
 ## Tools Used
 
 - SQL Server – Data storage, cleaning, and analysis
