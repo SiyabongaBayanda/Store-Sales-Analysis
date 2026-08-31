@@ -72,17 +72,16 @@ The Power BI dashboard contains:
 
 ## Key Insights
 
-- Women generated a significant portion of total sales 64%.
-- Adult age group (30-49) contributed a larger proportion sales.
-- Set, kurta & western dress categories contributed 88 % sales.
-- Q1 recorded the highest quarterly sales.
-- The top 3 performing states are Maharashtra, Karnataka, Uttar Pradesh.
-- Amazon, Myntra & Flipkart channels outperformed others by 80 %.
+- Women contributed 64% of total sales, making female customers the largest revenue-generating customer segment.
+- Customers aged 30–49 generated the largest share of sales, highlighting the Adult age group as a key target market.
+- Set, Kurta, and Western Dress were the top-performing categories, collectively contributing 88% of total sales, making them the primary drivers of product revenue.
+- Q1 recorded the highest quarterly sales, indicating strong sales performance during the first quarter.
+- Maharashtra, Karnataka, and Uttar Pradesh were the top three sales-generating states, highlighting these regions as key markets for the business.
+- Amazon, Myntra, and Flipkart were the strongest sales channels, collectively accounting for 80% of total sales, demonstrating the importance of these platforms to overall business performance.
 
 ## Recommendations
 
-- Target women customers of age group (30-49) living in
-  Maharashtra, Karnataka, Uttar Pradesh.
-- Strengthen Amazon, Myntra & Flipkart channels by ads/offers/coupons available.
-- Increase inventory and staffing in December to maximize Q1 sales. 
-- Investigate low-performing states for growth opportunities.
+- Target women aged 30–49 in Maharashtra, Karnataka, and Uttar Pradesh with personalized marketing campaigns, product recommendations, and offers tailored to their purchasing preferences.
+- Strengthen the Amazon, Myntra, and Flipkart sales channels by using targeted advertising, exclusive offers, and promotional coupons to increase customer engagement and sales.
+- Increase inventory and staffing ahead of peak sales periods to ensure sufficient stock and operational capacity to meet higher customer demand and maximize sales opportunities.
+- Investigate low-performing states to identify barriers to sales growth and develop targeted strategies such as regional promotions, localized marketing, and improved product availability.
