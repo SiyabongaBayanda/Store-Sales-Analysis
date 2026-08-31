@@ -72,10 +72,10 @@ The Power BI dashboard contains:
 
 ### KPI Cards
 
-- Total Sales
-- Total Orders
-- Total Quantity Sold
-- Average Order Value
+- Total Sales: ₹ 21.18M
+- Total Orders: 31.046K
+- Total Quantity Sold: 31.19K
+- Average Order Value: ₹ 682.02
 
 ### Visualizations
 
