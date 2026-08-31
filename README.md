@@ -30,6 +30,7 @@ opportunities. The objective is to transform raw sales data into actionable insi
 - Excel/CSV – Source dataset
 
 ## Project Workflow
+
 Raw Dataset
     →
 SQL Server
@@ -50,7 +51,7 @@ Business Insights
 
 The Power BI dashboard contains:
 
-### KPI Cards
+### KPI's
 
 - Total Sales: ₹ 21.18M
 - Total Orders: 31.046K
@@ -68,7 +69,6 @@ The Power BI dashboard contains:
 - Order Status (Donut Chart)
 
 ![HR Analytics Dashboard](Sales_Report_Dashboard.png)
-
 
 ## Key Insights
 
