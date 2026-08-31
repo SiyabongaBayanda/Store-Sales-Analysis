@@ -49,6 +49,7 @@ Business Insights
 
 ## Dashboard
 
+![HR Analytics Dashboard](Sales_Report_Dashboard.png)
 The Power BI dashboard contains:
 
 ### KPI's
@@ -67,8 +68,6 @@ The Power BI dashboard contains:
 - Sales by Sales Channel (Pie Chart)
 - Orders by Age & Gender (Column Chart)
 - Order Status (Donut Chart)
-
-![HR Analytics Dashboard](Sales_Report_Dashboard.png)
 
 ## Key Insights
 
