@@ -56,7 +56,7 @@ The Power BI dashboard contains:
 
 ### KPI's
 
-- Total Sales: ₹ 21.18M
+- Sum of Amount/Revenue: ₹ 21.18M
 - Total Orders: 31.046K
 - Total Quantity Sold: 31.19K
 - Average Order Value: ₹ 682.02
@@ -73,7 +73,7 @@ The Power BI dashboard contains:
 
 ## Key Insights
 
-- Women contributed 64% of total revenue, making female customers the largest revenue-generating customer segment.
+- Women represent the largest customer segment by sales contribution 64%.
 - Customers aged 30–49 generated the largest share of sales, highlighting the Adult age group as a key target market.
 - Set, Kurta, and Western Dress were the top-performing categories, collectively contributing 88% of total sales, making them the primary drivers of product revenue.
 - Q1 recorded the highest quarterly sales, indicating strong sales performance during the first quarter.
