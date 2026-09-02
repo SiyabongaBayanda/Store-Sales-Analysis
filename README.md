@@ -26,14 +26,14 @@ Analyze sales and customer purchasing patterns to identify revenue drivers, high
 
 ## Business Questions
 
-1. What are the total sales and orders?
-2. Which category generates the most sales?
-3. Which gender contributes the most sales?
-4. Which age group generates the most sales?
-5. Which month has the highest sales?
+1. What are the total revenue and orders?
+2. Which category generates the most revenue?
+3. Which gender contributes the most revenue?
+4. Which age group generates the most revenue?
+5. Which month has the highest revenue?
 6. Which channels generate the most orders?
 7. Show different orders status?
-8. Which states generate the most sales?
+8. Which states generate the most revenue?
    
 ## Tools Used
 
@@ -70,7 +70,7 @@ The Power BI dashboard contains:
 
 - Total Revenue: ₹ 21.18M
 - Total Orders: 31.05K
-- Total Quantity: 31.19K
+- Total Quantity Sold: 31.19K
 - Average Order Value: ₹ 682
 
 ### Visualizations
