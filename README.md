@@ -1,4 +1,4 @@
-#  Store Sales Analysis
+#  Vrinda Store Sales Analysis | SQL & Power BI
 ##  Project Overview
 
 This project analyzes Vrinda store sales data to identify sales trends,
@@ -56,11 +56,11 @@ Business Insights
 
 The Power BI dashboard contains:
 
-### KPI's
+### KPI
 
-- Sum of Amount/Revenue: ₹ 21.18M
+- Total Revenue: ₹ 21.18M
 - Total Orders: 31.05K
-- Total Quantity Sold: 31.19K
+- Total Quantity: 31.19K
 - Average Order Value: ₹ 682
 
 ### Visualizations
@@ -80,11 +80,11 @@ The Power BI dashboard contains:
 - Set, Kurta, and Western Dress were the top-performing categories, collectively contributing 88% of total sales, making them the primary drivers of product revenue.
 - Q1 recorded the highest quarterly sales, indicating strong sales performance during the first quarter.
 - Maharashtra, Karnataka, and Uttar Pradesh were the top three sales-generating states, highlighting these regions as key markets for the business.
-- Amazon, Myntra, and Flipkart were the strongest sales channels, collectively accounting for 80% of total sales, demonstrating the importance of these platforms to overall business performance.
+- Amazon, Myntra, and Flipkart collectively generated 80% of total sales, demonstrating the importance of these platforms to overall business performance.
 
 ## Recommendations
 
 - Target women aged 30–49 with personalized marketing campaigns, product recommendations, and offers tailored to their purchasing preferences.
 - Strengthen the Amazon, Myntra, and Flipkart sales channels by using targeted advertising, exclusive offers, and promotional coupons to increase customer engagement and sales.
-- Increase inventory and staffing ahead of peak sales periods to ensure sufficient stock and operational capacity to meet higher customer demand and maximize sales opportunities.
+- Increase inventory and staffing ahead of Q1 to prepare for historically higher demand and reduce the risk of stockouts or fulfillment delays.
 - Investigate low-performing states to identify barriers to sales growth and develop targeted strategies such as regional promotions, localized marketing, and improved product availability.
