@@ -1,4 +1,4 @@
-#  Vrinda Store Sales Analysis | SQL & Power BI
+#  Vrinda Store Sales Analysis 
 ##  Project Overview
 
 This project analyzes Vrinda store sales data to identify sales trends,
@@ -13,6 +13,16 @@ Analyze sales and customer purchasing patterns to identify revenue drivers, high
 **Source:** Kaggle  
 **Dataset:** Vrinda Store Sales 
 **Link:** [Download here](https://www.kaggle.com/datasets/amitkumar209/vrinda-store-sales-data)
+
+## Skills Demonstrated
+
+- Data Cleaning & Transformation
+- SQL Data Analysis
+- Exploratory Data Analysis
+- Business KPI Development
+- Power BI Dashboard Development
+- Data Visualization
+- Business Insights & Recommendations
 
 ## Business Questions
 
