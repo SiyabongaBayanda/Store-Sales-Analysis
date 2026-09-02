@@ -51,7 +51,7 @@ Business Insights
 
 ## Dashboard
 
-![HR Analytics Dashboard](Sales_Report_Dashboard.png)
+![HR Analytics Dashboard](Sales_Report_Dashboard.png).
 The Power BI dashboard contains:
 
 ### KPI's
