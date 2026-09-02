@@ -57,9 +57,9 @@ The Power BI dashboard contains:
 ### KPI's
 
 - Sum of Amount/Revenue: ₹ 21.18M
-- Total Orders: 31.5K
+- Total Orders: 31.05K
 - Total Quantity Sold: 31.19K
-- Average Order Value: ₹ 682.02
+- Average Order Value: ₹ 682
 
 ### Visualizations
 
